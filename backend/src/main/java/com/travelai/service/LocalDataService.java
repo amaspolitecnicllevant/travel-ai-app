@@ -12,6 +12,7 @@ import java.time.LocalDate;
 import java.time.LocalTime;
 import java.time.format.DateTimeFormatter;
 import java.util.*;
+import java.util.concurrent.ConcurrentHashMap;
 import java.util.stream.StreamSupport;
 
 /**
@@ -195,11 +196,21 @@ public class LocalDataService {
         };
     }
 
+    private final Map<String, Integer> cycleIndex = new ConcurrentHashMap<>();
+
     private JsonNode pickOne(List<JsonNode> list, Set<String> used) {
-        return list.stream()
+        if (list.isEmpty()) return null;
+        // First try unused places
+        JsonNode unused = list.stream()
             .filter(p -> !used.contains(p.path("id").asText()))
             .findFirst()
             .orElse(null);
+        if (unused != null) return unused;
+        // All used: cycle through list with round-robin to avoid repeating same item
+        String key = list.get(0).path("destination").asText() + list.get(0).path("type").asText();
+        int idx = cycleIndex.getOrDefault(key, 0) % list.size();
+        cycleIndex.put(key, idx + 1);
+        return list.get(idx);
     }
 
     private void markUsed(Set<String> used, JsonNode place) {

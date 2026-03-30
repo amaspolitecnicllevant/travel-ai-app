@@ -9,9 +9,16 @@
       "address": "Alcazabilla, 2, 29012 Málaga",
       "openingHours": "09:00-18:00",
       "durationMinutes": 90,
-      "estimatedCost": 3.50,
+      "estimatedCost": 3.5,
       "rating": 4.6,
-      "tags": ["cultural", "historia", "familiar", "romantico", "aventura", "mochilero"],
+      "tags": [
+        "cultural",
+        "historia",
+        "familiar",
+        "romantico",
+        "aventura",
+        "mochilero"
+      ],
       "bestTime": "morning"
     },
     {
@@ -23,9 +30,15 @@
       "address": "Camino Gibralfaro, 11, 29016 Málaga",
       "openingHours": "09:00-18:00",
       "durationMinutes": 60,
-      "estimatedCost": 3.50,
+      "estimatedCost": 3.5,
       "rating": 4.5,
-      "tags": ["cultural", "historia", "familiar", "romantico", "aventura"],
+      "tags": [
+        "cultural",
+        "historia",
+        "familiar",
+        "romantico",
+        "aventura"
+      ],
       "bestTime": "morning"
     },
     {
@@ -37,9 +50,15 @@
       "address": "Palacio de Buenavista, C/ San Agustín, 8, 29015 Málaga",
       "openingHours": "10:00-19:00",
       "durationMinutes": 90,
-      "estimatedCost": 12.00,
+      "estimatedCost": 12.0,
       "rating": 4.7,
-      "tags": ["cultural", "arte", "familiar", "romantico", "mochilero"],
+      "tags": [
+        "cultural",
+        "arte",
+        "familiar",
+        "romantico",
+        "mochilero"
+      ],
       "bestTime": "morning"
     },
     {
@@ -51,9 +70,14 @@
       "address": "C/ Molina Lario, 9, 29015 Málaga",
       "openingHours": "10:00-18:00",
       "durationMinutes": 60,
-      "estimatedCost": 6.00,
+      "estimatedCost": 6.0,
       "rating": 4.5,
-      "tags": ["cultural", "historia", "familiar", "romantico"],
+      "tags": [
+        "cultural",
+        "historia",
+        "familiar",
+        "romantico"
+      ],
       "bestTime": "morning"
     },
     {
@@ -67,7 +91,12 @@
       "durationMinutes": 75,
       "estimatedCost": 0,
       "rating": 4.3,
-      "tags": ["cultural", "arte", "familiar", "mochilero"],
+      "tags": [
+        "cultural",
+        "arte",
+        "familiar",
+        "mochilero"
+      ],
       "bestTime": "afternoon"
     },
     {
@@ -79,9 +108,14 @@
       "address": "C/ Atarazanas, 10, 29005 Málaga",
       "openingHours": "08:00-15:00",
       "durationMinutes": 45,
-      "estimatedCost": 5.00,
+      "estimatedCost": 5.0,
       "rating": 4.4,
-      "tags": ["gastronomia", "familiar", "cultura", "mochilero"],
+      "tags": [
+        "gastronomia",
+        "familiar",
+        "cultura",
+        "mochilero"
+      ],
       "bestTime": "morning"
     },
     {
@@ -95,7 +129,13 @@
       "durationMinutes": 120,
       "estimatedCost": 0,
       "rating": 4.8,
-      "tags": ["cultural", "historia", "familiar", "mochilero", "romantico"],
+      "tags": [
+        "cultural",
+        "historia",
+        "familiar",
+        "mochilero",
+        "romantico"
+      ],
       "bestTime": "morning"
     },
     {
@@ -109,7 +149,12 @@
       "durationMinutes": 30,
       "estimatedCost": 0,
       "rating": 4.3,
-      "tags": ["cultural", "historia", "familiar", "mochilero"],
+      "tags": [
+        "cultural",
+        "historia",
+        "familiar",
+        "mochilero"
+      ],
       "bestTime": "morning"
     },
     {
@@ -123,7 +168,13 @@
       "durationMinutes": 120,
       "estimatedCost": 0,
       "rating": 4.2,
-      "tags": ["playa", "familiar", "romantico", "aventura", "mochilero"],
+      "tags": [
+        "playa",
+        "familiar",
+        "romantico",
+        "aventura",
+        "mochilero"
+      ],
       "bestTime": "afternoon"
     },
     {
@@ -135,9 +186,14 @@
       "address": "C/ Granada, 62, 29015 Málaga",
       "openingHours": "12:00-02:00",
       "durationMinutes": 90,
-      "estimatedCost": 25.00,
+      "estimatedCost": 25.0,
       "rating": 4.4,
-      "tags": ["gastronomia", "familiar", "romantico", "mochilero"],
+      "tags": [
+        "gastronomia",
+        "familiar",
+        "romantico",
+        "mochilero"
+      ],
       "bestTime": "evening"
     },
     {
@@ -149,9 +205,14 @@
       "address": "Alameda Principal, 18, 29001 Málaga",
       "openingHours": "10:00-22:00",
       "durationMinutes": 60,
-      "estimatedCost": 15.00,
+      "estimatedCost": 15.0,
       "rating": 4.5,
-      "tags": ["gastronomia", "historia", "mochilero", "romantico"],
+      "tags": [
+        "gastronomia",
+        "historia",
+        "mochilero",
+        "romantico"
+      ],
       "bestTime": "afternoon"
     },
     {
@@ -163,9 +224,13 @@
       "address": "C/ Madre de Dios, 14, 29012 Málaga",
       "openingHours": "13:30-16:00 y 20:30-23:30",
       "durationMinutes": 90,
-      "estimatedCost": 35.00,
+      "estimatedCost": 35.0,
       "rating": 4.7,
-      "tags": ["gastronomia", "romantico", "aventura"],
+      "tags": [
+        "gastronomia",
+        "romantico",
+        "aventura"
+      ],
       "bestTime": "evening"
     },
     {
@@ -177,12 +242,16 @@
       "address": "Playa El Palo, Málaga",
       "openingHours": "12:00-20:00",
       "durationMinutes": 90,
-      "estimatedCost": 20.00,
+      "estimatedCost": 20.0,
       "rating": 4.6,
-      "tags": ["gastronomia", "familiar", "playa", "mochilero"],
+      "tags": [
+        "gastronomia",
+        "familiar",
+        "playa",
+        "mochilero"
+      ],
       "bestTime": "afternoon"
     },
-
     {
       "id": "benalmadena-teleferico",
       "destination": "Benalmádena",
@@ -192,9 +261,14 @@
       "address": "Arroyo de la Miel, Benalmádena",
       "openingHours": "10:30-18:00",
       "durationMinutes": 120,
-      "estimatedCost": 17.50,
+      "estimatedCost": 17.5,
       "rating": 4.5,
-      "tags": ["aventura", "familiar", "romantico", "vistas"],
+      "tags": [
+        "aventura",
+        "familiar",
+        "romantico",
+        "vistas"
+      ],
       "bestTime": "morning"
     },
     {
@@ -208,7 +282,12 @@
       "durationMinutes": 45,
       "estimatedCost": 0,
       "rating": 4.2,
-      "tags": ["cultural", "historia", "familiar", "mochilero"],
+      "tags": [
+        "cultural",
+        "historia",
+        "familiar",
+        "mochilero"
+      ],
       "bestTime": "afternoon"
     },
     {
@@ -222,7 +301,12 @@
       "durationMinutes": 60,
       "estimatedCost": 0,
       "rating": 4.4,
-      "tags": ["cultural", "espiritual", "familiar", "romantico"],
+      "tags": [
+        "cultural",
+        "espiritual",
+        "familiar",
+        "romantico"
+      ],
       "bestTime": "morning"
     },
     {
@@ -236,7 +320,12 @@
       "durationMinutes": 90,
       "estimatedCost": 0,
       "rating": 4.3,
-      "tags": ["familiar", "romantico", "paseo", "mochilero"],
+      "tags": [
+        "familiar",
+        "romantico",
+        "paseo",
+        "mochilero"
+      ],
       "bestTime": "afternoon"
     },
     {
@@ -248,9 +337,13 @@
       "address": "Parque de la Paloma, Benalmádena",
       "openingHours": "10:00-18:00",
       "durationMinutes": 180,
-      "estimatedCost": 22.50,
+      "estimatedCost": 22.5,
       "rating": 4.1,
-      "tags": ["familiar", "aventura", "naturaleza"],
+      "tags": [
+        "familiar",
+        "aventura",
+        "naturaleza"
+      ],
       "bestTime": "morning"
     },
     {
@@ -264,7 +357,12 @@
       "durationMinutes": 60,
       "estimatedCost": 0,
       "rating": 4.4,
-      "tags": ["familiar", "naturaleza", "mochilero", "romantico"],
+      "tags": [
+        "familiar",
+        "naturaleza",
+        "mochilero",
+        "romantico"
+      ],
       "bestTime": "afternoon"
     },
     {
@@ -278,7 +376,13 @@
       "durationMinutes": 90,
       "estimatedCost": 0,
       "rating": 4.6,
-      "tags": ["cultural", "historia", "familiar", "mochilero", "romantico"],
+      "tags": [
+        "cultural",
+        "historia",
+        "familiar",
+        "mochilero",
+        "romantico"
+      ],
       "bestTime": "morning"
     },
     {
@@ -290,9 +394,14 @@
       "address": "Ctra. Cádiz, km 220, 29639 Benalmádena",
       "openingHours": "12:00-23:00",
       "durationMinutes": 90,
-      "estimatedCost": 28.00,
+      "estimatedCost": 28.0,
       "rating": 4.4,
-      "tags": ["gastronomia", "familiar", "historia", "romantico"],
+      "tags": [
+        "gastronomia",
+        "familiar",
+        "historia",
+        "romantico"
+      ],
       "bestTime": "afternoon"
     },
     {
@@ -304,12 +413,16 @@
       "address": "Playa Santa Ana, Benalmádena Costa",
       "openingHours": "12:00-22:00",
       "durationMinutes": 90,
-      "estimatedCost": 22.00,
+      "estimatedCost": 22.0,
       "rating": 4.3,
-      "tags": ["gastronomia", "playa", "familiar", "mochilero"],
+      "tags": [
+        "gastronomia",
+        "playa",
+        "familiar",
+        "mochilero"
+      ],
       "bestTime": "afternoon"
     },
-
     {
       "id": "marbella-casco",
       "destination": "Marbella",
@@ -321,7 +434,13 @@
       "durationMinutes": 90,
       "estimatedCost": 0,
       "rating": 4.7,
-      "tags": ["cultural", "familiar", "romantico", "mochilero", "aventura"],
+      "tags": [
+        "cultural",
+        "familiar",
+        "romantico",
+        "mochilero",
+        "aventura"
+      ],
       "bestTime": "morning"
     },
     {
@@ -335,7 +454,12 @@
       "durationMinutes": 120,
       "estimatedCost": 0,
       "rating": 4.3,
-      "tags": ["romantico", "lujo", "familiar", "mochilero"],
+      "tags": [
+        "romantico",
+        "lujo",
+        "familiar",
+        "mochilero"
+      ],
       "bestTime": "afternoon"
     },
     {
@@ -349,7 +473,13 @@
       "durationMinutes": 75,
       "estimatedCost": 0,
       "rating": 4.5,
-      "tags": ["cultural", "arte", "familiar", "romantico", "mochilero"],
+      "tags": [
+        "cultural",
+        "arte",
+        "familiar",
+        "romantico",
+        "mochilero"
+      ],
       "bestTime": "morning"
     },
     {
@@ -363,7 +493,13 @@
       "durationMinutes": 180,
       "estimatedCost": 0,
       "rating": 4.5,
-      "tags": ["playa", "familiar", "romantico", "aventura", "mochilero"],
+      "tags": [
+        "playa",
+        "familiar",
+        "romantico",
+        "aventura",
+        "mochilero"
+      ],
       "bestTime": "afternoon"
     },
     {
@@ -377,7 +513,13 @@
       "durationMinutes": 105,
       "estimatedCost": 0,
       "rating": 4.8,
-      "tags": ["cultural", "historia", "familiar", "mochilero", "romantico"],
+      "tags": [
+        "cultural",
+        "historia",
+        "familiar",
+        "mochilero",
+        "romantico"
+      ],
       "bestTime": "morning"
     },
     {
@@ -389,9 +531,13 @@
       "address": "C/ Aduar, 12, 29601 Marbella",
       "openingHours": "13:30-15:30 y 20:00-22:30",
       "durationMinutes": 120,
-      "estimatedCost": 95.00,
+      "estimatedCost": 95.0,
       "rating": 4.9,
-      "tags": ["gastronomia", "lujo", "romantico"],
+      "tags": [
+        "gastronomia",
+        "lujo",
+        "romantico"
+      ],
       "bestTime": "evening"
     },
     {
@@ -403,9 +549,14 @@
       "address": "C/ Aduar, 21, 29601 Marbella",
       "openingHours": "13:00-16:00 y 19:30-23:30",
       "durationMinutes": 90,
-      "estimatedCost": 30.00,
+      "estimatedCost": 30.0,
       "rating": 4.6,
-      "tags": ["gastronomia", "familiar", "romantico", "mochilero"],
+      "tags": [
+        "gastronomia",
+        "familiar",
+        "romantico",
+        "mochilero"
+      ],
       "bestTime": "evening"
     },
     {
@@ -417,12 +568,16 @@
       "address": "C/ San Lázaro, 12, 29601 Marbella",
       "openingHours": "12:00-16:00 y 20:00-00:00",
       "durationMinutes": 60,
-      "estimatedCost": 18.00,
+      "estimatedCost": 18.0,
       "rating": 4.5,
-      "tags": ["gastronomia", "historia", "mochilero", "familiar"],
+      "tags": [
+        "gastronomia",
+        "historia",
+        "mochilero",
+        "familiar"
+      ],
       "bestTime": "afternoon"
     },
-
     {
       "id": "torremolinos-calle-san-miguel",
       "destination": "Torremolinos",
@@ -434,7 +589,11 @@
       "durationMinutes": 60,
       "estimatedCost": 0,
       "rating": 4.0,
-      "tags": ["familiar", "mochilero", "compras"],
+      "tags": [
+        "familiar",
+        "mochilero",
+        "compras"
+      ],
       "bestTime": "afternoon"
     },
     {
@@ -448,7 +607,12 @@
       "durationMinutes": 180,
       "estimatedCost": 0,
       "rating": 4.1,
-      "tags": ["playa", "familiar", "aventura", "mochilero"],
+      "tags": [
+        "playa",
+        "familiar",
+        "aventura",
+        "mochilero"
+      ],
       "bestTime": "afternoon"
     },
     {
@@ -460,9 +624,13 @@
       "address": "Puerto Marina, Benalmádena (cerca de Torremolinos)",
       "openingHours": "10:00-18:00",
       "durationMinutes": 120,
-      "estimatedCost": 19.00,
+      "estimatedCost": 19.0,
       "rating": 4.0,
-      "tags": ["familiar", "aventura", "naturaleza"],
+      "tags": [
+        "familiar",
+        "aventura",
+        "naturaleza"
+      ],
       "bestTime": "morning"
     },
     {
@@ -476,7 +644,12 @@
       "durationMinutes": 90,
       "estimatedCost": 0,
       "rating": 4.5,
-      "tags": ["cultural", "historia", "familiar", "mochilero"],
+      "tags": [
+        "cultural",
+        "historia",
+        "familiar",
+        "mochilero"
+      ],
       "bestTime": "morning"
     },
     {
@@ -488,12 +661,15 @@
       "address": "C/ Mar, 14-16, 29620 Torremolinos",
       "openingHours": "12:30-16:30 y 19:30-23:30",
       "durationMinutes": 90,
-      "estimatedCost": 25.00,
+      "estimatedCost": 25.0,
       "rating": 4.5,
-      "tags": ["gastronomia", "familiar", "mochilero"],
+      "tags": [
+        "gastronomia",
+        "familiar",
+        "mochilero"
+      ],
       "bestTime": "afternoon"
     },
-
     {
       "id": "fuengirola-castillo-sohail",
       "destination": "Fuengirola",
@@ -503,9 +679,14 @@
       "address": "C/ Castillo, 29640 Fuengirola",
       "openingHours": "10:00-14:00 y 17:00-20:00",
       "durationMinutes": 60,
-      "estimatedCost": 3.00,
+      "estimatedCost": 3.0,
       "rating": 4.3,
-      "tags": ["cultural", "historia", "familiar", "romantico"],
+      "tags": [
+        "cultural",
+        "historia",
+        "familiar",
+        "romantico"
+      ],
       "bestTime": "morning"
     },
     {
@@ -517,9 +698,13 @@
       "address": "C/ Camilo José Cela, s/n, 29640 Fuengirola",
       "openingHours": "10:00-18:00",
       "durationMinutes": 240,
-      "estimatedCost": 24.50,
+      "estimatedCost": 24.5,
       "rating": 4.6,
-      "tags": ["familiar", "aventura", "naturaleza"],
+      "tags": [
+        "familiar",
+        "aventura",
+        "naturaleza"
+      ],
       "bestTime": "morning"
     },
     {
@@ -533,7 +718,12 @@
       "durationMinutes": 90,
       "estimatedCost": 0,
       "rating": 4.3,
-      "tags": ["familiar", "playa", "mochilero", "romantico"],
+      "tags": [
+        "familiar",
+        "playa",
+        "mochilero",
+        "romantico"
+      ],
       "bestTime": "afternoon"
     },
     {
@@ -547,7 +737,12 @@
       "durationMinutes": 90,
       "estimatedCost": 0,
       "rating": 4.4,
-      "tags": ["cultural", "historia", "familiar", "mochilero"],
+      "tags": [
+        "cultural",
+        "historia",
+        "familiar",
+        "mochilero"
+      ],
       "bestTime": "morning"
     },
     {
@@ -559,12 +754,15 @@
       "address": "C/ Francisco Cano, 1, 29640 Fuengirola",
       "openingHours": "13:00-16:00 y 20:00-23:30",
       "durationMinutes": 90,
-      "estimatedCost": 32.00,
+      "estimatedCost": 32.0,
       "rating": 4.5,
-      "tags": ["gastronomia", "familiar", "romantico"],
+      "tags": [
+        "gastronomia",
+        "familiar",
+        "romantico"
+      ],
       "bestTime": "evening"
     },
-
     {
       "id": "nerja-cuevas",
       "destination": "Nerja",
@@ -574,9 +772,15 @@
       "address": "Ctra. de Maro, s/n, 29787 Nerja",
       "openingHours": "09:00-16:00",
       "durationMinutes": 90,
-      "estimatedCost": 12.00,
+      "estimatedCost": 12.0,
       "rating": 4.7,
-      "tags": ["cultural", "aventura", "familiar", "naturaleza", "historia"],
+      "tags": [
+        "cultural",
+        "aventura",
+        "familiar",
+        "naturaleza",
+        "historia"
+      ],
       "bestTime": "morning"
     },
     {
@@ -590,7 +794,12 @@
       "durationMinutes": 45,
       "estimatedCost": 0,
       "rating": 4.7,
-      "tags": ["romantico", "familiar", "mochilero", "aventura"],
+      "tags": [
+        "romantico",
+        "familiar",
+        "mochilero",
+        "aventura"
+      ],
       "bestTime": "afternoon"
     },
     {
@@ -604,7 +813,13 @@
       "durationMinutes": 180,
       "estimatedCost": 0,
       "rating": 4.6,
-      "tags": ["playa", "familiar", "romantico", "aventura", "mochilero"],
+      "tags": [
+        "playa",
+        "familiar",
+        "romantico",
+        "aventura",
+        "mochilero"
+      ],
       "bestTime": "afternoon"
     },
     {
@@ -618,7 +833,13 @@
       "durationMinutes": 90,
       "estimatedCost": 0,
       "rating": 4.7,
-      "tags": ["cultural", "historia", "familiar", "mochilero", "romantico"],
+      "tags": [
+        "cultural",
+        "historia",
+        "familiar",
+        "mochilero",
+        "romantico"
+      ],
       "bestTime": "morning"
     },
     {
@@ -630,9 +851,14 @@
       "address": "Playa de Burriana, 29780 Nerja",
       "openingHours": "12:00-20:00",
       "durationMinutes": 90,
-      "estimatedCost": 18.00,
+      "estimatedCost": 18.0,
       "rating": 4.5,
-      "tags": ["gastronomia", "playa", "familiar", "mochilero"],
+      "tags": [
+        "gastronomia",
+        "playa",
+        "familiar",
+        "mochilero"
+      ],
       "bestTime": "afternoon"
     },
     {
@@ -644,12 +870,15 @@
       "address": "C/ Diputación, 14, 29780 Nerja",
       "openingHours": "13:00-16:00 y 19:30-23:00",
       "durationMinutes": 90,
-      "estimatedCost": 25.00,
+      "estimatedCost": 25.0,
       "rating": 4.4,
-      "tags": ["gastronomia", "familiar", "mochilero"],
+      "tags": [
+        "gastronomia",
+        "familiar",
+        "mochilero"
+      ],
       "bestTime": "evening"
     },
-
     {
       "id": "ronda-puente-nuevo",
       "destination": "Ronda",
@@ -661,7 +890,14 @@
       "durationMinutes": 60,
       "estimatedCost": 0,
       "rating": 4.8,
-      "tags": ["cultural", "historia", "romantico", "familiar", "aventura", "mochilero"],
+      "tags": [
+        "cultural",
+        "historia",
+        "romantico",
+        "familiar",
+        "aventura",
+        "mochilero"
+      ],
       "bestTime": "morning"
     },
     {
@@ -673,9 +909,14 @@
       "address": "C/ Virgen de la Paz, 15, 29400 Ronda",
       "openingHours": "10:00-18:00",
       "durationMinutes": 60,
-      "estimatedCost": 9.00,
+      "estimatedCost": 9.0,
       "rating": 4.5,
-      "tags": ["cultural", "historia", "familiar", "mochilero"],
+      "tags": [
+        "cultural",
+        "historia",
+        "familiar",
+        "mochilero"
+      ],
       "bestTime": "morning"
     },
     {
@@ -689,7 +930,13 @@
       "durationMinutes": 60,
       "estimatedCost": 0,
       "rating": 4.7,
-      "tags": ["naturaleza", "aventura", "romantico", "familiar", "mochilero"],
+      "tags": [
+        "naturaleza",
+        "aventura",
+        "romantico",
+        "familiar",
+        "mochilero"
+      ],
       "bestTime": "afternoon"
     },
     {
@@ -701,9 +948,14 @@
       "address": "C/ Molino de Alarcón, s/n, 29400 Ronda",
       "openingHours": "10:00-18:00",
       "durationMinutes": 45,
-      "estimatedCost": 4.00,
+      "estimatedCost": 4.0,
       "rating": 4.4,
-      "tags": ["cultural", "historia", "familiar", "mochilero"],
+      "tags": [
+        "cultural",
+        "historia",
+        "familiar",
+        "mochilero"
+      ],
       "bestTime": "morning"
     },
     {
@@ -717,7 +969,13 @@
       "durationMinutes": 120,
       "estimatedCost": 0,
       "rating": 4.8,
-      "tags": ["cultural", "historia", "familiar", "mochilero", "romantico"],
+      "tags": [
+        "cultural",
+        "historia",
+        "familiar",
+        "mochilero",
+        "romantico"
+      ],
       "bestTime": "morning"
     },
     {
@@ -729,9 +987,14 @@
       "address": "C/ Virgen de la Paz, 18, 29400 Ronda",
       "openingHours": "12:30-16:00 y 19:30-23:00",
       "durationMinutes": 90,
-      "estimatedCost": 30.00,
+      "estimatedCost": 30.0,
       "rating": 4.5,
-      "tags": ["gastronomia", "historia", "familiar", "romantico"],
+      "tags": [
+        "gastronomia",
+        "historia",
+        "familiar",
+        "romantico"
+      ],
       "bestTime": "afternoon"
     },
     {
@@ -743,10 +1006,1220 @@
       "address": "C/ Nueva, 4, 29400 Ronda",
       "openingHours": "13:00-16:30 y 20:00-23:30",
       "durationMinutes": 75,
-      "estimatedCost": 22.00,
+      "estimatedCost": 22.0,
       "rating": 4.6,
-      "tags": ["gastronomia", "familiar", "mochilero", "romantico"],
+      "tags": [
+        "gastronomia",
+        "familiar",
+        "mochilero",
+        "romantico"
+      ],
       "bestTime": "evening"
+    },
+    {
+      "id": "malaga-museo-carmen-thyssen",
+      "destination": "Málaga",
+      "name": "Museo Carmen Thyssen Málaga",
+      "type": "monument",
+      "description": "Colección de pintura andaluza del siglo XIX en un palacio renacentista. Obras de Sorolla, Fortuny y Romero de Torres.",
+      "address": "Plaza Carmen Thyssen, C/ Compañía, 10, 29008 Málaga",
+      "openingHours": "10:00-20:00 (lunes cerrado)",
+      "durationMinutes": 75,
+      "estimatedCost": 10.0,
+      "rating": 4.5,
+      "tags": [
+        "cultural",
+        "arte",
+        "familiar",
+        "romantico",
+        "mochilero"
+      ],
+      "bestTime": "morning"
+    },
+    {
+      "id": "malaga-museo-pompidou",
+      "destination": "Málaga",
+      "name": "Centre Pompidou Málaga",
+      "type": "monument",
+      "description": "Único Centro Pompidou fuera de Francia. Arte moderno y contemporáneo internacional bajo el colorido cubo del puerto.",
+      "address": "Pasaje Doctor Carrillo Casaux, s/n, 29016 Málaga",
+      "openingHours": "09:30-20:00 (martes cerrado)",
+      "durationMinutes": 90,
+      "estimatedCost": 9.0,
+      "rating": 4.4,
+      "tags": [
+        "cultural",
+        "arte",
+        "familiar",
+        "mochilero"
+      ],
+      "bestTime": "morning"
+    },
+    {
+      "id": "malaga-museo-vidrio",
+      "destination": "Málaga",
+      "name": "Museo del Vidrio y Cristal",
+      "type": "monument",
+      "description": "Colección única de vidrio y cristal desde época romana hasta el siglo XX en una mansión del siglo XVIII.",
+      "address": "Plazuela Santísimo Cristo de la Sangre, 2, 29012 Málaga",
+      "openingHours": "11:00-19:00",
+      "durationMinutes": 60,
+      "estimatedCost": 5.0,
+      "rating": 4.6,
+      "tags": [
+        "cultural",
+        "historia",
+        "familiar",
+        "romantico"
+      ],
+      "bestTime": "afternoon"
+    },
+    {
+      "id": "malaga-jardin-botanico",
+      "destination": "Málaga",
+      "name": "Jardín Botánico Histórico La Concepción",
+      "type": "activity",
+      "description": "Uno de los jardines tropicales más importantes de Europa con palmeras centenarias, bambús gigantes y fuentes históricas.",
+      "address": "Camino del Jardín Botánico, 3, 29014 Málaga",
+      "openingHours": "09:30-20:30",
+      "durationMinutes": 120,
+      "estimatedCost": 5.2,
+      "rating": 4.6,
+      "tags": [
+        "naturaleza",
+        "familiar",
+        "romantico",
+        "mochilero"
+      ],
+      "bestTime": "morning"
+    },
+    {
+      "id": "malaga-muelle-uno",
+      "destination": "Málaga",
+      "name": "Muelle Uno y Puerto de Málaga",
+      "type": "activity",
+      "description": "El puerto renovado con tiendas, restaurantes, el Centro Pompidou y paseos junto al mar. El punto de encuentro moderno de Málaga.",
+      "address": "Muelle 1, Puerto de Málaga, 29016 Málaga",
+      "openingHours": "00:00-24:00",
+      "durationMinutes": 90,
+      "estimatedCost": 0,
+      "rating": 4.4,
+      "tags": [
+        "familiar",
+        "romantico",
+        "mochilero",
+        "paseo"
+      ],
+      "bestTime": "afternoon"
+    },
+    {
+      "id": "malaga-calle-larios",
+      "destination": "Málaga",
+      "name": "Calle Larios y Centro Histórico",
+      "type": "activity",
+      "description": "La calle comercial más elegante de Málaga, peatonal y con terrazas. Conecta el centro con el puerto.",
+      "address": "C/ Marqués de Larios, 29005 Málaga",
+      "openingHours": "00:00-24:00",
+      "durationMinutes": 60,
+      "estimatedCost": 0,
+      "rating": 4.5,
+      "tags": [
+        "familiar",
+        "mochilero",
+        "romantico",
+        "compras"
+      ],
+      "bestTime": "afternoon"
+    },
+    {
+      "id": "malaga-soho",
+      "destination": "Málaga",
+      "name": "Barrio del Soho y Street Art",
+      "type": "activity",
+      "description": "El barrio de los artistas con murales callejeros gigantes de fama mundial. Galerías, cafeterías y ambiente bohemio.",
+      "address": "Barrio del Soho, 29002 Málaga",
+      "openingHours": "00:00-24:00",
+      "durationMinutes": 60,
+      "estimatedCost": 0,
+      "rating": 4.3,
+      "tags": [
+        "cultural",
+        "arte",
+        "mochilero",
+        "aventura"
+      ],
+      "bestTime": "afternoon"
+    },
+    {
+      "id": "malaga-parque",
+      "destination": "Málaga",
+      "name": "Parque de Málaga",
+      "type": "activity",
+      "description": "El pulmón verde de Málaga junto al puerto. Jardín tropical con palmeras, fuentes y esculturas.",
+      "address": "Paseo del Parque, 29016 Málaga",
+      "openingHours": "00:00-24:00",
+      "durationMinutes": 45,
+      "estimatedCost": 0,
+      "rating": 4.4,
+      "tags": [
+        "familiar",
+        "naturaleza",
+        "mochilero",
+        "romantico"
+      ],
+      "bestTime": "afternoon"
+    },
+    {
+      "id": "malaga-plaza-merced",
+      "destination": "Málaga",
+      "name": "Plaza de la Merced",
+      "type": "activity",
+      "description": "La plaza más animada del centro, lugar de nacimiento de Picasso. Terrazas, bares y ambiente típico malagueño.",
+      "address": "Plaza de la Merced, 29012 Málaga",
+      "openingHours": "00:00-24:00",
+      "durationMinutes": 45,
+      "estimatedCost": 0,
+      "rating": 4.3,
+      "tags": [
+        "familiar",
+        "mochilero",
+        "romantico"
+      ],
+      "bestTime": "afternoon"
+    },
+    {
+      "id": "malaga-freetour-soho",
+      "destination": "Málaga",
+      "name": "Free Tour Barrio del Soho y Arte Urbano",
+      "type": "freetour",
+      "description": "Tour gratuito por el barrio más moderno de Málaga: murales gigantes, historia del Soho y Muelle Uno.",
+      "address": "Teatro Cervantes, C/ Ramos Marín, 29016 Málaga",
+      "openingHours": "17:00",
+      "durationMinutes": 100,
+      "estimatedCost": 0,
+      "rating": 4.7,
+      "tags": [
+        "cultural",
+        "arte",
+        "mochilero",
+        "familiar"
+      ],
+      "bestTime": "afternoon"
+    },
+    {
+      "id": "malaga-freetour-alcazaba",
+      "destination": "Málaga",
+      "name": "Free Tour Alcazaba y Gibralfaro",
+      "type": "freetour",
+      "description": "Tour gratuito centrado en la historia árabe de Málaga: Alcazaba, Castillo de Gibralfaro y las murallas medievales.",
+      "address": "Teatro Romano, Alcazabilla, 29012 Málaga",
+      "openingHours": "09:30",
+      "durationMinutes": 120,
+      "estimatedCost": 0,
+      "rating": 4.7,
+      "tags": [
+        "cultural",
+        "historia",
+        "familiar",
+        "mochilero",
+        "romantico"
+      ],
+      "bestTime": "morning"
+    },
+    {
+      "id": "malaga-restaurante-kaleja",
+      "destination": "Málaga",
+      "name": "Restaurante Kaleja",
+      "type": "restaurant",
+      "description": "Cocina malagueña de vanguardia con estrella Michelin. Menú degustación con productos del mar y la huerta local.",
+      "address": "C/ Denis Belgrano, 8, 29015 Málaga",
+      "openingHours": "13:30-15:30 y 20:30-22:30",
+      "durationMinutes": 120,
+      "estimatedCost": 70.0,
+      "rating": 4.8,
+      "tags": [
+        "gastronomia",
+        "lujo",
+        "romantico"
+      ],
+      "bestTime": "evening"
+    },
+    {
+      "id": "malaga-cafe-central",
+      "destination": "Málaga",
+      "name": "Café Central Málaga",
+      "type": "restaurant",
+      "description": "El café más famoso de Málaga desde 1922 en la Plaza de la Constitución. Desayunos típicos malagueños.",
+      "address": "Plaza de la Constitución, 11, 29015 Málaga",
+      "openingHours": "07:30-23:00",
+      "durationMinutes": 45,
+      "estimatedCost": 8.0,
+      "rating": 4.3,
+      "tags": [
+        "gastronomia",
+        "historia",
+        "familiar",
+        "mochilero"
+      ],
+      "bestTime": "morning"
+    },
+    {
+      "id": "malaga-marisqueria-garnacha",
+      "destination": "Málaga",
+      "name": "Marisquería La Garnacha",
+      "type": "restaurant",
+      "description": "Marisquería tradicional en el centro. Coquinas, chopitos y boquerones al natural frescos del día.",
+      "address": "C/ Granada, 46, 29015 Málaga",
+      "openingHours": "12:00-17:00 y 20:00-24:00",
+      "durationMinutes": 75,
+      "estimatedCost": 22.0,
+      "rating": 4.4,
+      "tags": [
+        "gastronomia",
+        "familiar",
+        "mochilero"
+      ],
+      "bestTime": "afternoon"
+    },
+    {
+      "id": "benalmadena-acuario-sealife",
+      "destination": "Benalmádena",
+      "name": "Sea Life Benalmádena",
+      "type": "activity",
+      "description": "Acuario temático en el Puerto Marina con tiburones, tortugas y el espectacular túnel submarino de 10 metros.",
+      "address": "Puerto Marina, local 3, 29630 Benalmádena",
+      "openingHours": "10:00-18:00",
+      "durationMinutes": 90,
+      "estimatedCost": 18.0,
+      "rating": 4.1,
+      "tags": [
+        "familiar",
+        "aventura",
+        "naturaleza"
+      ],
+      "bestTime": "morning"
+    },
+    {
+      "id": "benalmadena-tivoli",
+      "destination": "Benalmádena",
+      "name": "Tivoli World Benalmádena",
+      "type": "activity",
+      "description": "Parque de atracciones con montañas rusas, espectáculos flamenco y zona infantil para toda la familia.",
+      "address": "Av. de Tivoli, s/n, 29630 Benalmádena",
+      "openingHours": "17:00-01:00",
+      "durationMinutes": 240,
+      "estimatedCost": 25.0,
+      "rating": 4.0,
+      "tags": [
+        "familiar",
+        "aventura"
+      ],
+      "bestTime": "afternoon"
+    },
+    {
+      "id": "benalmadena-playa-malapesquera",
+      "destination": "Benalmádena",
+      "name": "Playa Malapesquera",
+      "type": "activity",
+      "description": "Playa tranquila con aguas cristalinas y fondo de arena. Ideal para snorkel y relajarse.",
+      "address": "Playa Malapesquera, Benalmádena Costa",
+      "openingHours": "00:00-24:00",
+      "durationMinutes": 150,
+      "estimatedCost": 0,
+      "rating": 4.3,
+      "tags": [
+        "playa",
+        "familiar",
+        "romantico",
+        "aventura",
+        "mochilero"
+      ],
+      "bestTime": "afternoon"
+    },
+    {
+      "id": "benalmadena-avistamiento",
+      "destination": "Benalmádena",
+      "name": "Ruta de Aves en Monte Calamorro",
+      "type": "activity",
+      "description": "Ruta de avistamiento de aves migratorias desde el Monte Calamorro. Vistas al estrecho de Gibraltar.",
+      "address": "Monte Calamorro, Benalmádena",
+      "openingHours": "09:00-18:00",
+      "durationMinutes": 120,
+      "estimatedCost": 0,
+      "rating": 4.2,
+      "tags": [
+        "naturaleza",
+        "aventura",
+        "mochilero"
+      ],
+      "bestTime": "morning"
+    },
+    {
+      "id": "benalmadena-faro",
+      "destination": "Benalmádena",
+      "name": "Faro de Benalmádena y Cala",
+      "type": "activity",
+      "description": "Paseo hasta el faro con vistas panorámicas al Mediterráneo y pequeña cala protegida. Atardecer espectacular.",
+      "address": "Punta del Vicario, Benalmádena Costa",
+      "openingHours": "00:00-24:00",
+      "durationMinutes": 60,
+      "estimatedCost": 0,
+      "rating": 4.5,
+      "tags": [
+        "romantico",
+        "aventura",
+        "mochilero",
+        "naturaleza"
+      ],
+      "bestTime": "afternoon"
+    },
+    {
+      "id": "benalmadena-museo-arqueologico",
+      "destination": "Benalmádena",
+      "name": "Museo Arqueológico de Benalmádena",
+      "type": "monument",
+      "description": "Colección de piezas arqueológicas precolombinas, egipcias y mediterráneas. Pequeño pero fascinante.",
+      "address": "Av. Juan Luis Peralta, 49, Benalmádena Pueblo",
+      "openingHours": "10:00-14:00 y 16:00-20:00",
+      "durationMinutes": 60,
+      "estimatedCost": 0,
+      "rating": 4.1,
+      "tags": [
+        "cultural",
+        "historia",
+        "familiar",
+        "mochilero"
+      ],
+      "bestTime": "morning"
+    },
+    {
+      "id": "benalmadena-paseo-maritimo",
+      "destination": "Benalmádena",
+      "name": "Paseo Marítimo de Benalmádena",
+      "type": "activity",
+      "description": "Amplio paseo junto al mar de 6 km desde Torremolinos hasta el Puerto Marina. Bares y chiringuitos.",
+      "address": "Paseo Marítimo Costa del Sol, Benalmádena",
+      "openingHours": "00:00-24:00",
+      "durationMinutes": 90,
+      "estimatedCost": 0,
+      "rating": 4.3,
+      "tags": [
+        "familiar",
+        "romantico",
+        "mochilero",
+        "playa"
+      ],
+      "bestTime": "afternoon"
+    },
+    {
+      "id": "benalmadena-restaurante-palacete",
+      "destination": "Benalmádena",
+      "name": "El Palacete Restaurante",
+      "type": "restaurant",
+      "description": "Restaurante en villa histórica con jardines y vistas al mar. Cocina mediterránea de temporada.",
+      "address": "C/ Maestra Juana Josefa, 8, Benalmádena Pueblo",
+      "openingHours": "13:00-16:00 y 19:30-23:00",
+      "durationMinutes": 90,
+      "estimatedCost": 32.0,
+      "rating": 4.5,
+      "tags": [
+        "gastronomia",
+        "romantico",
+        "familiar"
+      ],
+      "bestTime": "evening"
+    },
+    {
+      "id": "benalmadena-chiringuito-cruce",
+      "destination": "Benalmádena",
+      "name": "Chiringuito El Cruce",
+      "type": "restaurant",
+      "description": "Chiringuito familiar con los mejores espetos de la zona, sardinas a la brasa y boquerones fritos a pie de playa.",
+      "address": "Playa de Benalmádena, Av. Antonio Machado",
+      "openingHours": "12:00-21:00",
+      "durationMinutes": 75,
+      "estimatedCost": 18.0,
+      "rating": 4.3,
+      "tags": [
+        "gastronomia",
+        "playa",
+        "familiar",
+        "mochilero"
+      ],
+      "bestTime": "afternoon"
+    },
+    {
+      "id": "benalmadena-restaurante-jalea",
+      "destination": "Benalmádena",
+      "name": "Restaurante La Jalea",
+      "type": "restaurant",
+      "description": "Cocina internacional y mariscos frescos en el Puerto Marina. Terraza con vistas a los yates.",
+      "address": "Puerto Marina, local 38, Benalmádena",
+      "openingHours": "13:00-16:30 y 20:00-23:30",
+      "durationMinutes": 90,
+      "estimatedCost": 28.0,
+      "rating": 4.2,
+      "tags": [
+        "gastronomia",
+        "romantico",
+        "familiar"
+      ],
+      "bestTime": "evening"
+    },
+    {
+      "id": "benalmadena-freetour-gastronomia",
+      "destination": "Benalmádena",
+      "name": "Free Tour Gastronomía Benalmádena",
+      "type": "freetour",
+      "description": "Tour gastronómico gratuito por Benalmádena Pueblo: tapas, bodegas locales y mercado de artesanía.",
+      "address": "Plaza de España, Benalmádena Pueblo",
+      "openingHours": "12:00",
+      "durationMinutes": 90,
+      "estimatedCost": 0,
+      "rating": 4.5,
+      "tags": [
+        "gastronomia",
+        "cultural",
+        "familiar",
+        "mochilero"
+      ],
+      "bestTime": "morning"
+    },
+    {
+      "id": "benalmadena-visita-nocturna",
+      "destination": "Benalmádena",
+      "name": "Visita Nocturna Castillo Bil-Bil",
+      "type": "activity",
+      "description": "Visita nocturna al Castillo de Bil-Bil iluminado con exposición fotográfica y vistas nocturnas al paseo.",
+      "address": "Av. Antonio Machado, Benalmádena Costa",
+      "openingHours": "20:00-23:00",
+      "durationMinutes": 60,
+      "estimatedCost": 0,
+      "rating": 4.3,
+      "tags": [
+        "cultural",
+        "romantico",
+        "familiar"
+      ],
+      "bestTime": "evening"
+    },
+    {
+      "id": "marbella-parque-alameda",
+      "destination": "Marbella",
+      "name": "Parque de la Alameda",
+      "type": "activity",
+      "description": "Precioso jardín junto al casco antiguo con fuentes y bancos de cerámica artesanal. El más bonito de Marbella.",
+      "address": "Av. Ramón y Cajal, 29600 Marbella",
+      "openingHours": "08:00-22:00",
+      "durationMinutes": 45,
+      "estimatedCost": 0,
+      "rating": 4.6,
+      "tags": [
+        "familiar",
+        "romantico",
+        "mochilero",
+        "naturaleza"
+      ],
+      "bestTime": "morning"
+    },
+    {
+      "id": "marbella-museo-bonsai",
+      "destination": "Marbella",
+      "name": "Museo del Bonsái de Marbella",
+      "type": "monument",
+      "description": "El museo de bonsái más importante de España con árboles centenarios de todo el mundo.",
+      "address": "Parque Arroyo de la Represa, 29600 Marbella",
+      "openingHours": "10:30-13:30 y 16:00-19:00",
+      "durationMinutes": 60,
+      "estimatedCost": 5.0,
+      "rating": 4.5,
+      "tags": [
+        "cultural",
+        "naturaleza",
+        "familiar",
+        "romantico"
+      ],
+      "bestTime": "morning"
+    },
+    {
+      "id": "marbella-muralla-arabe",
+      "destination": "Marbella",
+      "name": "Muralla Árabe y Torre del Reloj",
+      "type": "monument",
+      "description": "Restos de la muralla árabe del siglo IX y la Torre del Reloj, símbolo histórico de Marbella.",
+      "address": "C/ Aduar, Casco Antiguo, 29601 Marbella",
+      "openingHours": "00:00-24:00",
+      "durationMinutes": 45,
+      "estimatedCost": 0,
+      "rating": 4.4,
+      "tags": [
+        "cultural",
+        "historia",
+        "familiar",
+        "mochilero"
+      ],
+      "bestTime": "morning"
+    },
+    {
+      "id": "marbella-playa-cabopino",
+      "destination": "Marbella",
+      "name": "Playa de Cabopino",
+      "type": "activity",
+      "description": "Una de las playas más salvajes de la Costa del Sol, junto a dunas de arena y pinares. Aguas cristalinas.",
+      "address": "Cabopino, 29604 Marbella",
+      "openingHours": "00:00-24:00",
+      "durationMinutes": 180,
+      "estimatedCost": 0,
+      "rating": 4.7,
+      "tags": [
+        "playa",
+        "naturaleza",
+        "aventura",
+        "romantico",
+        "familiar"
+      ],
+      "bestTime": "afternoon"
+    },
+    {
+      "id": "marbella-iglesia-encarnacion",
+      "destination": "Marbella",
+      "name": "Iglesia de la Encarnación",
+      "type": "monument",
+      "description": "Iglesia del siglo XVI en el corazón del casco antiguo. Interior barroco con retablos del siglo XVIII.",
+      "address": "Plaza de los Naranjos, s/n, 29601 Marbella",
+      "openingHours": "08:00-13:00 y 18:00-21:00",
+      "durationMinutes": 30,
+      "estimatedCost": 0,
+      "rating": 4.3,
+      "tags": [
+        "cultural",
+        "historia",
+        "familiar",
+        "mochilero"
+      ],
+      "bestTime": "morning"
+    },
+    {
+      "id": "marbella-freetour-banus",
+      "destination": "Marbella",
+      "name": "Free Tour Puerto Banús y Lujo",
+      "type": "freetour",
+      "description": "Tour gratuito por Puerto Banús: historia del puerto más glamuroso de España, superyates y villas de lujo.",
+      "address": "Entrada Puerto Banús, 29660 Marbella",
+      "openingHours": "11:00 y 18:00",
+      "durationMinutes": 90,
+      "estimatedCost": 0,
+      "rating": 4.6,
+      "tags": [
+        "cultural",
+        "historia",
+        "familiar",
+        "mochilero",
+        "romantico"
+      ],
+      "bestTime": "morning"
+    },
+    {
+      "id": "marbella-restaurante-trocadero",
+      "destination": "Marbella",
+      "name": "El Trocadero Marbella",
+      "type": "restaurant",
+      "description": "Chiringuito de lujo en primera línea de playa con camas balinesas y cocina mediterránea al atardecer.",
+      "address": "Playa de Casablanca, N-340 km 178, Marbella",
+      "openingHours": "11:00-01:00",
+      "durationMinutes": 120,
+      "estimatedCost": 40.0,
+      "rating": 4.5,
+      "tags": [
+        "gastronomia",
+        "lujo",
+        "romantico",
+        "playa"
+      ],
+      "bestTime": "afternoon"
+    },
+    {
+      "id": "marbella-restaurante-azul",
+      "destination": "Marbella",
+      "name": "Restaurante Azul Marino",
+      "type": "restaurant",
+      "description": "Marisquería de referencia en el centro. Pulpo a la gallega, gambas rojas y pescado de lonja diaria.",
+      "address": "C/ Buitrago, 1, 29601 Marbella",
+      "openingHours": "13:00-16:30 y 20:00-24:00",
+      "durationMinutes": 90,
+      "estimatedCost": 28.0,
+      "rating": 4.4,
+      "tags": [
+        "gastronomia",
+        "familiar",
+        "romantico"
+      ],
+      "bestTime": "afternoon"
+    },
+    {
+      "id": "torremolinos-parque-bateria",
+      "destination": "Torremolinos",
+      "name": "Parque La Batería",
+      "type": "activity",
+      "description": "Gran parque urbano con jardines, fuentes y las antiguas baterías militares del siglo XIX. Vista al mar.",
+      "address": "C/ La Nogalera, Torremolinos",
+      "openingHours": "08:00-22:00",
+      "durationMinutes": 60,
+      "estimatedCost": 0,
+      "rating": 4.2,
+      "tags": [
+        "familiar",
+        "naturaleza",
+        "mochilero"
+      ],
+      "bestTime": "afternoon"
+    },
+    {
+      "id": "torremolinos-molinos-arabes",
+      "destination": "Torremolinos",
+      "name": "Molinos Árabes de Torremolinos",
+      "type": "monument",
+      "description": "Los molinos de agua árabes medievales que dieron nombre a Torremolinos. Monumento histórico restaurado.",
+      "address": "C/ Los Molinos, 29620 Torremolinos",
+      "openingHours": "10:00-14:00",
+      "durationMinutes": 45,
+      "estimatedCost": 0,
+      "rating": 4.1,
+      "tags": [
+        "cultural",
+        "historia",
+        "familiar",
+        "mochilero"
+      ],
+      "bestTime": "morning"
+    },
+    {
+      "id": "torremolinos-aqualand",
+      "destination": "Torremolinos",
+      "name": "Aqualand Torremolinos",
+      "type": "activity",
+      "description": "El mayor parque acuático de Andalucía con toboganes extremos, río lento y zona infantil.",
+      "address": "Ctra. Málaga-Cádiz, km 228, 29620 Torremolinos",
+      "openingHours": "10:00-18:00",
+      "durationMinutes": 300,
+      "estimatedCost": 26.0,
+      "rating": 4.2,
+      "tags": [
+        "familiar",
+        "aventura"
+      ],
+      "bestTime": "morning"
+    },
+    {
+      "id": "torremolinos-barrio-carihuela",
+      "destination": "Torremolinos",
+      "name": "Barrio de La Carihuela",
+      "type": "activity",
+      "description": "El barrio de pescadores más pintoresco con casas blancas, chiringuitos auténticos y el mejor pescado fresco.",
+      "address": "La Carihuela, 29620 Torremolinos",
+      "openingHours": "00:00-24:00",
+      "durationMinutes": 90,
+      "estimatedCost": 0,
+      "rating": 4.4,
+      "tags": [
+        "familiar",
+        "gastronomia",
+        "cultural",
+        "mochilero"
+      ],
+      "bestTime": "afternoon"
+    },
+    {
+      "id": "torremolinos-museo-historia",
+      "destination": "Torremolinos",
+      "name": "Centro de Interpretación El Pinar",
+      "type": "monument",
+      "description": "Museo sobre la historia de Torremolinos: desde los molinos árabes hasta la transformación turística de los 60.",
+      "address": "C/ El Pinar, 29620 Torremolinos",
+      "openingHours": "10:00-14:00 y 16:00-19:00",
+      "durationMinutes": 60,
+      "estimatedCost": 0,
+      "rating": 4.0,
+      "tags": [
+        "cultural",
+        "historia",
+        "mochilero"
+      ],
+      "bestTime": "morning"
+    },
+    {
+      "id": "torremolinos-restaurante-nogalera",
+      "destination": "Torremolinos",
+      "name": "Restaurante La Nogalera",
+      "type": "restaurant",
+      "description": "Complejo gastronómico en el corazón de Torremolinos con terrazas, bares de tapas y cocina internacional.",
+      "address": "C/ La Nogalera, 29620 Torremolinos",
+      "openingHours": "10:00-02:00",
+      "durationMinutes": 75,
+      "estimatedCost": 20.0,
+      "rating": 4.1,
+      "tags": [
+        "gastronomia",
+        "familiar",
+        "mochilero"
+      ],
+      "bestTime": "afternoon"
+    },
+    {
+      "id": "torremolinos-chiringuito-caracola",
+      "destination": "Torremolinos",
+      "name": "Chiringuito La Caracola",
+      "type": "restaurant",
+      "description": "Chiringuito de playa en La Carihuela con pescado del día, gambas al pil-pil y paella valenciana auténtica.",
+      "address": "Playa La Carihuela, Torremolinos",
+      "openingHours": "12:00-22:00",
+      "durationMinutes": 90,
+      "estimatedCost": 22.0,
+      "rating": 4.3,
+      "tags": [
+        "gastronomia",
+        "playa",
+        "familiar",
+        "mochilero"
+      ],
+      "bestTime": "afternoon"
+    },
+    {
+      "id": "torremolinos-freetour-historia",
+      "destination": "Torremolinos",
+      "name": "Free Tour Historia y Modernidad Torremolinos",
+      "type": "freetour",
+      "description": "Tour por el Torremolinos histórico: molinos árabes, casas señoriales, la transformación de los 60 y lugares secretos.",
+      "address": "Plaza Costa del Sol, Torremolinos",
+      "openingHours": "16:00",
+      "durationMinutes": 90,
+      "estimatedCost": 0,
+      "rating": 4.4,
+      "tags": [
+        "cultural",
+        "historia",
+        "familiar",
+        "mochilero"
+      ],
+      "bestTime": "afternoon"
+    },
+    {
+      "id": "fuengirola-centro-historico",
+      "destination": "Fuengirola",
+      "name": "Centro Histórico de Fuengirola",
+      "type": "activity",
+      "description": "El casco histórico con la Plaza de la Constitución, iglesia del Rosario y calles peatonales.",
+      "address": "Plaza de la Constitución, 29640 Fuengirola",
+      "openingHours": "00:00-24:00",
+      "durationMinutes": 60,
+      "estimatedCost": 0,
+      "rating": 4.1,
+      "tags": [
+        "cultural",
+        "familiar",
+        "mochilero"
+      ],
+      "bestTime": "morning"
+    },
+    {
+      "id": "fuengirola-mercadillo",
+      "destination": "Fuengirola",
+      "name": "Mercadillo de Fuengirola",
+      "type": "activity",
+      "description": "El mercadillo más popular de la Costa del Sol los martes. Ropa, artesanía, especias y productos locales.",
+      "address": "Recinto Ferial, Fuengirola",
+      "openingHours": "09:00-14:00 (martes)",
+      "durationMinutes": 90,
+      "estimatedCost": 0,
+      "rating": 4.2,
+      "tags": [
+        "familiar",
+        "mochilero",
+        "compras",
+        "cultural"
+      ],
+      "bestTime": "morning"
+    },
+    {
+      "id": "fuengirola-playa-torreblanca",
+      "destination": "Fuengirola",
+      "name": "Playa de Torreblanca",
+      "type": "activity",
+      "description": "Playa tranquila en la zona este de Fuengirola con aguas limpias y ambiente familiar alejado del turismo masivo.",
+      "address": "Playa Torreblanca, 29640 Fuengirola",
+      "openingHours": "00:00-24:00",
+      "durationMinutes": 150,
+      "estimatedCost": 0,
+      "rating": 4.3,
+      "tags": [
+        "playa",
+        "familiar",
+        "romantico",
+        "mochilero"
+      ],
+      "bestTime": "afternoon"
+    },
+    {
+      "id": "fuengirola-parque-maritimo",
+      "destination": "Fuengirola",
+      "name": "Parque Marítimo de Fuengirola",
+      "type": "activity",
+      "description": "Parque temático con lagunas de agua de mar, toboganes y jacuzzis exteriores junto al paseo.",
+      "address": "Paseo Marítimo, 29640 Fuengirola",
+      "openingHours": "11:00-20:00",
+      "durationMinutes": 150,
+      "estimatedCost": 12.0,
+      "rating": 4.0,
+      "tags": [
+        "familiar",
+        "aventura",
+        "playa"
+      ],
+      "bestTime": "afternoon"
+    },
+    {
+      "id": "fuengirola-restaurante-julieta",
+      "destination": "Fuengirola",
+      "name": "Restaurante La Julieta",
+      "type": "restaurant",
+      "description": "Cocina mediterránea creativa con opciones vegetarianas. Ambiente acogedor y productos ecológicos.",
+      "address": "C/ Palangreros, 1, 29640 Fuengirola",
+      "openingHours": "13:00-16:00 y 19:30-23:00",
+      "durationMinutes": 75,
+      "estimatedCost": 22.0,
+      "rating": 4.4,
+      "tags": [
+        "gastronomia",
+        "familiar",
+        "romantico",
+        "mochilero"
+      ],
+      "bestTime": "afternoon"
+    },
+    {
+      "id": "fuengirola-bar-capitan",
+      "destination": "Fuengirola",
+      "name": "Bar El Capitán",
+      "type": "restaurant",
+      "description": "Bar de tapas tradicionales con reconocidas croquetas, patatas bravas y montaditos de lomo.",
+      "address": "C/ Capitán, 12, 29640 Fuengirola",
+      "openingHours": "11:00-16:00 y 19:00-24:00",
+      "durationMinutes": 60,
+      "estimatedCost": 15.0,
+      "rating": 4.3,
+      "tags": [
+        "gastronomia",
+        "familiar",
+        "mochilero"
+      ],
+      "bestTime": "afternoon"
+    },
+    {
+      "id": "fuengirola-freetour-historia",
+      "destination": "Fuengirola",
+      "name": "Free Tour Historia de Fuengirola",
+      "type": "freetour",
+      "description": "Tour por la historia romana, árabe y medieval de Fuengirola: Castillo Sohail y las termas romanas.",
+      "address": "Plaza de la Constitución, Fuengirola",
+      "openingHours": "18:00",
+      "durationMinutes": 90,
+      "estimatedCost": 0,
+      "rating": 4.3,
+      "tags": [
+        "cultural",
+        "historia",
+        "familiar",
+        "mochilero"
+      ],
+      "bestTime": "afternoon"
+    },
+    {
+      "id": "nerja-playa-maro",
+      "destination": "Nerja",
+      "name": "Playa de Maro",
+      "type": "activity",
+      "description": "Una de las playas más bonitas de Andalucía. Cala virgen con agua turquesa y acantilados. Acceso a pie.",
+      "address": "Maro, 29787 Nerja",
+      "openingHours": "00:00-24:00",
+      "durationMinutes": 180,
+      "estimatedCost": 0,
+      "rating": 4.8,
+      "tags": [
+        "playa",
+        "naturaleza",
+        "aventura",
+        "romantico",
+        "mochilero"
+      ],
+      "bestTime": "morning"
+    },
+    {
+      "id": "nerja-ruta-acantilados",
+      "destination": "Nerja",
+      "name": "Ruta de los Acantilados de Maro",
+      "type": "activity",
+      "description": "Senderismo de 5 km por los acantilados entre Nerja y Maro con vistas al Mediterráneo y cuevas marinas.",
+      "address": "Playa de Burriana, 29780 Nerja",
+      "openingHours": "00:00-24:00",
+      "durationMinutes": 150,
+      "estimatedCost": 0,
+      "rating": 4.7,
+      "tags": [
+        "aventura",
+        "naturaleza",
+        "mochilero",
+        "romantico"
+      ],
+      "bestTime": "morning"
+    },
+    {
+      "id": "nerja-centro-historico",
+      "destination": "Nerja",
+      "name": "Centro Histórico y Calle Pintada",
+      "type": "activity",
+      "description": "Las calles blancas de Nerja con tiendas de artesanía, iglesias y la famosa calle Pintada llena de historia.",
+      "address": "C/ Pintada, 29780 Nerja",
+      "openingHours": "00:00-24:00",
+      "durationMinutes": 60,
+      "estimatedCost": 0,
+      "rating": 4.5,
+      "tags": [
+        "cultural",
+        "familiar",
+        "romantico",
+        "mochilero"
+      ],
+      "bestTime": "morning"
+    },
+    {
+      "id": "nerja-jardines-balcon",
+      "destination": "Nerja",
+      "name": "Jardines del Balcón de Europa",
+      "type": "activity",
+      "description": "Jardines tropicales junto al Balcón de Europa con palmeras y miradores al Mediterráneo. Romántico al atardecer.",
+      "address": "Paseo Balcón de Europa, 29780 Nerja",
+      "openingHours": "00:00-24:00",
+      "durationMinutes": 45,
+      "estimatedCost": 0,
+      "rating": 4.5,
+      "tags": [
+        "romantico",
+        "familiar",
+        "naturaleza",
+        "mochilero"
+      ],
+      "bestTime": "afternoon"
+    },
+    {
+      "id": "nerja-freetour-cuevas",
+      "destination": "Nerja",
+      "name": "Free Tour Prehistoria y Cuevas de Nerja",
+      "type": "freetour",
+      "description": "Tour sobre la historia prehistórica de Nerja: pinturas rupestres, primeros pobladores y el neolítico.",
+      "address": "Balcón de Europa, 29780 Nerja",
+      "openingHours": "11:30",
+      "durationMinutes": 90,
+      "estimatedCost": 0,
+      "rating": 4.6,
+      "tags": [
+        "cultural",
+        "historia",
+        "aventura",
+        "mochilero"
+      ],
+      "bestTime": "morning"
+    },
+    {
+      "id": "nerja-restaurante-pepa",
+      "destination": "Nerja",
+      "name": "Restaurante La Pepa",
+      "type": "restaurant",
+      "description": "Tapas creativas y cocina de autor en el centro de Nerja. Raciones generosas y carta de vinos locales.",
+      "address": "C/ El Barrio, 5, 29780 Nerja",
+      "openingHours": "13:30-16:00 y 20:00-23:30",
+      "durationMinutes": 75,
+      "estimatedCost": 25.0,
+      "rating": 4.5,
+      "tags": [
+        "gastronomia",
+        "familiar",
+        "romantico",
+        "mochilero"
+      ],
+      "bestTime": "evening"
+    },
+    {
+      "id": "nerja-bar-marisol",
+      "destination": "Nerja",
+      "name": "Bar Cafetería Marisol",
+      "type": "restaurant",
+      "description": "Bar tradicional con las mejores tapas de Nerja: gambas al ajillo, cazón en adobo y caldo de puchero.",
+      "address": "C/ Almirante Ferrándiz, 32, 29780 Nerja",
+      "openingHours": "09:00-15:00 y 18:00-23:00",
+      "durationMinutes": 60,
+      "estimatedCost": 14.0,
+      "rating": 4.3,
+      "tags": [
+        "gastronomia",
+        "mochilero",
+        "familiar"
+      ],
+      "bestTime": "afternoon"
+    },
+    {
+      "id": "ronda-palacio-mondragon",
+      "destination": "Ronda",
+      "name": "Palacio de Mondragón",
+      "type": "monument",
+      "description": "Palacio árabe del siglo XIV con patio mudéjar, jardines colgantes sobre el Tajo y Museo Municipal.",
+      "address": "Plaza Mondragón, s/n, 29400 Ronda",
+      "openingHours": "10:00-18:00",
+      "durationMinutes": 75,
+      "estimatedCost": 3.0,
+      "rating": 4.6,
+      "tags": [
+        "cultural",
+        "historia",
+        "familiar",
+        "romantico",
+        "mochilero"
+      ],
+      "bestTime": "morning"
+    },
+    {
+      "id": "ronda-casa-rey-moro",
+      "destination": "Ronda",
+      "name": "Casa del Rey Moro y Jardines",
+      "type": "monument",
+      "description": "Jardines colgantes sobre el Tajo con la mina de agua árabe. Bajada espectacular por escaleras en la roca.",
+      "address": "C/ Cuesta de Santo Domingo, 17, 29400 Ronda",
+      "openingHours": "10:00-19:00",
+      "durationMinutes": 60,
+      "estimatedCost": 7.0,
+      "rating": 4.5,
+      "tags": [
+        "cultural",
+        "aventura",
+        "romantico",
+        "familiar"
+      ],
+      "bestTime": "morning"
+    },
+    {
+      "id": "ronda-puentes-historicos",
+      "destination": "Ronda",
+      "name": "Puente Viejo y Puente Árabe",
+      "type": "activity",
+      "description": "Los dos puentes históricos sobre el Tajo. El Puente Árabe del siglo XIII y el Viejo del XVI.",
+      "address": "Tajo de Ronda, 29400 Ronda",
+      "openingHours": "00:00-24:00",
+      "durationMinutes": 60,
+      "estimatedCost": 0,
+      "rating": 4.6,
+      "tags": [
+        "cultural",
+        "historia",
+        "romantico",
+        "familiar",
+        "mochilero"
+      ],
+      "bestTime": "afternoon"
+    },
+    {
+      "id": "ronda-bodega-descalzos",
+      "destination": "Ronda",
+      "name": "Bodegas Descalzos Viejos",
+      "type": "activity",
+      "description": "Visita a bodega histórica del siglo XVI en un antiguo convento. Cata de vinos de Ronda con guía.",
+      "address": "C/ Los Descalzos, 2, 29400 Ronda",
+      "openingHours": "10:00-18:00",
+      "durationMinutes": 90,
+      "estimatedCost": 15.0,
+      "rating": 4.7,
+      "tags": [
+        "cultural",
+        "gastronomia",
+        "romantico",
+        "aventura"
+      ],
+      "bestTime": "afternoon"
+    },
+    {
+      "id": "ronda-iglesia-santa-maria",
+      "destination": "Ronda",
+      "name": "Iglesia de Santa María la Mayor",
+      "type": "monument",
+      "description": "Construida sobre la mezquita mayor del siglo XV. Mezcla única de estilos árabe, gótico y renacentista.",
+      "address": "Plaza de la Duquesa de Parcent, 29400 Ronda",
+      "openingHours": "10:00-18:00",
+      "durationMinutes": 45,
+      "estimatedCost": 4.5,
+      "rating": 4.4,
+      "tags": [
+        "cultural",
+        "historia",
+        "familiar",
+        "mochilero"
+      ],
+      "bestTime": "morning"
+    },
+    {
+      "id": "ronda-freetour-ciudad-sonada",
+      "destination": "Ronda",
+      "name": "Free Tour La Ciudad Soñada",
+      "type": "freetour",
+      "description": "Tour sobre Ronda como inspiración de Hemingway, Orson Welles y Rilke. Los lugares que los enamoraron.",
+      "address": "Plaza de España, 29400 Ronda",
+      "openingHours": "12:00",
+      "durationMinutes": 100,
+      "estimatedCost": 0,
+      "rating": 4.8,
+      "tags": [
+        "cultural",
+        "historia",
+        "romantico",
+        "familiar",
+        "mochilero"
+      ],
+      "bestTime": "morning"
+    },
+    {
+      "id": "ronda-restaurante-albacara",
+      "destination": "Ronda",
+      "name": "Restaurante Albacara",
+      "type": "restaurant",
+      "description": "Restaurante en el Parador de Ronda con terraza sobre el Tajo. Las mejores vistas al precipicio y cocina andaluza.",
+      "address": "Plaza de España, 1, 29400 Ronda",
+      "openingHours": "13:00-16:00 y 20:00-23:00",
+      "durationMinutes": 90,
+      "estimatedCost": 38.0,
+      "rating": 4.6,
+      "tags": [
+        "gastronomia",
+        "lujo",
+        "romantico",
+        "familiar"
+      ],
+      "bestTime": "afternoon"
+    },
+    {
+      "id": "ronda-bodega-tapas",
+      "destination": "Ronda",
+      "name": "Bodega El Socorro",
+      "type": "restaurant",
+      "description": "Taberna con los mejores vinos de la Serranía y tapas: queso payoyo, jamón serrano y morcilla.",
+      "address": "C/ Ruedo Alameda, 20, 29400 Ronda",
+      "openingHours": "12:00-16:00 y 19:00-23:00",
+      "durationMinutes": 60,
+      "estimatedCost": 18.0,
+      "rating": 4.4,
+      "tags": [
+        "gastronomia",
+        "mochilero",
+        "romantico",
+        "familiar"
+      ],
+      "bestTime": "afternoon"
     }
   ]
 }
