@@ -16,14 +16,17 @@ public class ItineraryService {
     private final TripService tripService;
     private final LocalDataService localDataService;
     private final ClaudeService claudeService;
+    private final OllamaService ollamaService;
     private final ObjectMapper objectMapper = new ObjectMapper();
 
     public ItineraryService(ItineraryRepository itineraryRepository, TripService tripService,
-                            LocalDataService localDataService, ClaudeService claudeService) {
+                            LocalDataService localDataService, ClaudeService claudeService,
+                            OllamaService ollamaService) {
         this.itineraryRepository = itineraryRepository;
         this.tripService = tripService;
         this.localDataService = localDataService;
         this.claudeService = claudeService;
+        this.ollamaService = ollamaService;
     }
 
     public String getItinerary(Long tripId) {
@@ -63,7 +66,13 @@ public class ItineraryService {
             .orElseThrow(() -> new ResponseStatusException(HttpStatus.NOT_FOUND,
                 "No hay itinerario. Genera uno primero."));
 
-        String updatedJson = claudeService.editItinerary(itinerary.getContent(), prompt);
+        String updatedJson;
+        if (ollamaService.isAvailable()) {
+            updatedJson = ollamaService.editItinerary(itinerary.getContent(), prompt);
+        } else {
+            updatedJson = claudeService.editItinerary(itinerary.getContent(), prompt);
+        }
+
         itinerary.setContent(updatedJson);
         itineraryRepository.save(itinerary);
 
