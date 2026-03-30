@@ -47,6 +47,8 @@ public class TripService {
         trip.setType(request.type());
         trip.setStartDate(request.startDate());
         trip.setEndDate(request.endDate());
+        trip.setArrivalTime(request.arrivalTime());
+        trip.setDepartureTime(request.departureTime());
         trip.setUserId(userId);
         tripRepository.save(trip);
         return TripResponse.from(trip, null);
@@ -59,6 +61,8 @@ public class TripService {
         trip.setType(request.type());
         trip.setStartDate(request.startDate());
         trip.setEndDate(request.endDate());
+        trip.setArrivalTime(request.arrivalTime());
+        trip.setDepartureTime(request.departureTime());
         tripRepository.save(trip);
         return TripResponse.from(trip, getAvgRating(id));
     }

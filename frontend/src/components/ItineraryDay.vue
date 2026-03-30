@@ -25,9 +25,20 @@
             </span>
           </div>
           <p v-if="activity.description" class="text-sm text-gray-600">{{ activity.description }}</p>
-          <p v-if="activity.estimatedCost" class="text-xs text-green-600 mt-1">
-            ~{{ activity.estimatedCost }}€
-          </p>
+          <div class="flex items-center gap-3 mt-1 flex-wrap">
+            <span v-if="activity.estimatedCost" class="text-xs text-green-600">
+              ~{{ activity.estimatedCost }}€
+            </span>
+            <span v-if="(activity as any).address" class="text-xs text-gray-400">
+              📍 {{ (activity as any).address }}
+            </span>
+            <span v-if="(activity as any).rating" class="text-xs text-yellow-500">
+              ★ {{ (activity as any).rating }}
+            </span>
+            <span v-if="(activity as any).openingHours" class="text-xs text-gray-400">
+              🕐 {{ (activity as any).openingHours }}
+            </span>
+          </div>
         </div>
       </div>
     </div>

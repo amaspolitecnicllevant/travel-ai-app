@@ -9,5 +9,7 @@ public record TripRequest(
     @NotBlank String destination,
     @NotBlank String type,
     @NotNull LocalDate startDate,
-    @NotNull LocalDate endDate
+    @NotNull LocalDate endDate,
+    String arrivalTime,
+    String departureTime
 ) {}

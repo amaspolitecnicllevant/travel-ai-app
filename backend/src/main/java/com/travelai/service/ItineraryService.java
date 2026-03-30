@@ -14,27 +14,41 @@ public class ItineraryService {
 
     private final ItineraryRepository itineraryRepository;
     private final TripService tripService;
+    private final LocalDataService localDataService;
     private final ClaudeService claudeService;
     private final ObjectMapper objectMapper = new ObjectMapper();
 
     public ItineraryService(ItineraryRepository itineraryRepository, TripService tripService,
-                            ClaudeService claudeService) {
+                            LocalDataService localDataService, ClaudeService claudeService) {
         this.itineraryRepository = itineraryRepository;
         this.tripService = tripService;
+        this.localDataService = localDataService;
         this.claudeService = claudeService;
     }
 
     public String getItinerary(Long tripId) {
         Itinerary itinerary = itineraryRepository.findByTripId(tripId)
-            .orElseThrow(() -> new ResponseStatusException(HttpStatus.NOT_FOUND, "No itinerary for this trip"));
+            .orElseThrow(() -> new ResponseStatusException(HttpStatus.NOT_FOUND, "No hay itinerario para este viaje"));
         return withTripId(itinerary.getContent(), tripId);
     }
 
     public String generateItinerary(Long tripId) {
         Trip trip = tripService.getRawTrip(tripId);
-        String json = claudeService.generateItinerary(
-            trip.getDestination(), trip.getType(), trip.getStartDate(), trip.getEndDate()
-        );
+        String json;
+
+        // Use local DB for Costa del Sol destinations, Claude for others
+        if (localDataService.supports(trip.getDestination())) {
+            json = localDataService.generateItinerary(
+                trip.getDestination(), trip.getType(),
+                trip.getStartDate(), trip.getEndDate(),
+                trip.getArrivalTime(), trip.getDepartureTime()
+            );
+        } else {
+            json = claudeService.generateItinerary(
+                trip.getDestination(), trip.getType(),
+                trip.getStartDate(), trip.getEndDate()
+            );
+        }
 
         Itinerary itinerary = itineraryRepository.findByTripId(tripId)
             .orElse(new Itinerary(tripId, json));
@@ -47,7 +61,7 @@ public class ItineraryService {
     public String editItinerary(Long tripId, String prompt) {
         Itinerary itinerary = itineraryRepository.findByTripId(tripId)
             .orElseThrow(() -> new ResponseStatusException(HttpStatus.NOT_FOUND,
-                "No itinerary to edit. Generate one first."));
+                "No hay itinerario. Genera uno primero."));
 
         String updatedJson = claudeService.editItinerary(itinerary.getContent(), prompt);
         itinerary.setContent(updatedJson);
@@ -56,7 +70,6 @@ public class ItineraryService {
         return withTripId(updatedJson, tripId);
     }
 
-    /** Ensures tripId field is set correctly in the JSON response */
     private String withTripId(String json, Long tripId) {
         try {
             ObjectNode node = (ObjectNode) objectMapper.readTree(json);

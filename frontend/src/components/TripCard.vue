@@ -10,10 +10,12 @@
       </span>
     </div>
 
-    <div class="flex items-center gap-4 text-sm text-gray-500 mb-4">
+    <div class="flex items-center gap-2 text-sm text-gray-500 mb-2 flex-wrap">
       <span>📅 {{ formatDate(trip.startDate) }}</span>
+      <span v-if="trip.arrivalTime" class="text-blue-500">✈️ {{ trip.arrivalTime }}</span>
       <span>→</span>
       <span>{{ formatDate(trip.endDate) }}</span>
+      <span v-if="trip.departureTime" class="text-blue-500">✈️ {{ trip.departureTime }}</span>
     </div>
 
     <div class="flex justify-between items-center">

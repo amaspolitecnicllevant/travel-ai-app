@@ -13,6 +13,8 @@ export interface Trip {
   endDate: string
   userId: number
   averageRating?: number
+  arrivalTime?: string
+  departureTime?: string
 }
 
 export interface Activity {

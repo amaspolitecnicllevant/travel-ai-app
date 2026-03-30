@@ -11,7 +11,9 @@ public record TripResponse(
     LocalDate startDate,
     LocalDate endDate,
     Long userId,
-    Double averageRating
+    Double averageRating,
+    String arrivalTime,
+    String departureTime
 ) {
     public static TripResponse from(Trip trip, Double averageRating) {
         return new TripResponse(
@@ -22,7 +24,9 @@ public record TripResponse(
             trip.getStartDate(),
             trip.getEndDate(),
             trip.getUserId(),
-            averageRating
+            averageRating,
+            trip.getArrivalTime(),
+            trip.getDepartureTime()
         );
     }
 }

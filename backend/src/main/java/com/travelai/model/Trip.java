@@ -32,6 +32,10 @@ public class Trip {
     @Column(nullable = false)
     private Long userId;
 
+    // HH:mm format, e.g. "14:30"
+    private String arrivalTime;
+    private String departureTime;
+
     public Trip() {}
 
     public Long getId() { return id; }
@@ -41,6 +45,8 @@ public class Trip {
     public LocalDate getStartDate() { return startDate; }
     public LocalDate getEndDate() { return endDate; }
     public Long getUserId() { return userId; }
+    public String getArrivalTime() { return arrivalTime; }
+    public String getDepartureTime() { return departureTime; }
 
     public void setId(Long id) { this.id = id; }
     public void setTitle(String title) { this.title = title; }
@@ -49,4 +55,6 @@ public class Trip {
     public void setStartDate(LocalDate startDate) { this.startDate = startDate; }
     public void setEndDate(LocalDate endDate) { this.endDate = endDate; }
     public void setUserId(Long userId) { this.userId = userId; }
+    public void setArrivalTime(String arrivalTime) { this.arrivalTime = arrivalTime; }
+    public void setDepartureTime(String departureTime) { this.departureTime = departureTime; }
 }
