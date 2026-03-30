@@ -1,0 +1,8 @@
+{
+  "projectPath": "travel-ai-app/backend",
+  "models": {
+    "User":["id","username","email","password"],
+    "Trip":["id","title","destination","type","startDate","endDate","userId"]
+  },
+  "endpoints":["createTrip","getTrip","updateTrip"]
+}

@@ -1,0 +1,7 @@
+{
+  "projectPath": "travel-ai-app/frontend",
+  "apiUrl": "http://localhost:8080/api",
+  "models": {
+    "Trip":["id","title","destination","type","startDate","endDate","userId"]
+  }
+}
