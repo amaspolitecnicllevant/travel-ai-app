@@ -1,0 +1,43 @@
+{
+  "appName": "travel-ai-app",
+  "description": "Usuarios crean viajes, IA genera itinerarios, los editan con prompts, comparten viajes y reciben valoraciones",
+  "models": {
+    "User": ["id", "username", "email", "password"],
+    "Trip": ["id", "title", "destination", "type", "startDate", "endDate", "userId"],
+    "Rating": ["id", "tripId", "userId", "score"],
+    "Itinerary": ["days", "activities", "time", "name", "type"]
+  },
+  "technologies": [
+    "Spring Boot",
+    "JWT",
+    "PostgreSQL",
+    "Vue 3",
+    "Pinia",
+    "Tailwind",
+    "Axios",
+    "Docker",
+    "Claude API"
+  ],
+  "flows": [
+    "Registro/Login",
+    "Crear viaje",
+    "Generar itinerario IA",
+    "Editar itinerario con prompt",
+    "Compartir viaje y valorar"
+  ],
+  "requirements": [
+    "REST endpoints",
+    "JSON itinerarios",
+    "dockerizado",
+    "dev/prod"
+  ],
+  "api": {
+    "baseUrl": "http://localhost:8080/api",
+    "endpoints": {
+      "auth": "/auth/login, /auth/register",
+      "trips": "/trips (GET, POST), /trips/{id} (GET, PUT, DELETE)",
+      "itineraries": "/trips/{id}/itinerary (GET, POST)",
+      "ratings": "/trips/{id}/ratings (GET, POST)"
+    }
+  }
+}

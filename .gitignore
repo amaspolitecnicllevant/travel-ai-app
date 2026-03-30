@@ -1,0 +1,21 @@
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# Backend
+backend/target/
+backend/.mvn/
+
+# Environment
+.env
+*.env
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Logs
+*.log
+/tmp/
